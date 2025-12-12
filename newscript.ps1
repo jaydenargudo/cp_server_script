@@ -1,7 +1,4 @@
-# CyberPatriots Windows Server Hardening Script
-# Configured for: Remote Desktop, MailEnable, IIS (Web Server)
 # Run as Administrator
-# Read README carefully before running
 
 Write-Host "=== CyberPatriots Windows Server Hardening Script ===" -ForegroundColor Cyan
 Write-Host "Critical Services: RDP, MailEnable, IIS" -ForegroundColor Cyan
